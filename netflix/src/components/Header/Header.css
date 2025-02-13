@@ -1,0 +1,9 @@
+.logo {
+  width: 100px;
+}
+.icon {
+  opacity: 0.9;
+}
+.icon:hover {
+  opacity: 1;
+}

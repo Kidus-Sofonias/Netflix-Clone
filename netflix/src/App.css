@@ -1,8 +1,9 @@
-*{
+* {
   margin: 0;
   padding: 0;
 }
 
-.App{
+.App {
   background-color: #111;
+  text-align: center;
 }
