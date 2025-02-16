@@ -10,7 +10,7 @@ import AccountBoxIcon from "@mui/icons-material/AccountBox";
 
 export const Header = () => {
   return (
-    <nav className="navbar navbar-expand-sm navbar-dark">
+    <nav className="navbar navbar-expand-sm navbar-dark bg-dark">
       <div className="container-fluid">
         <a className="navbar-brand" href="#">
           <img className="logo" src={logo} alt="" />
