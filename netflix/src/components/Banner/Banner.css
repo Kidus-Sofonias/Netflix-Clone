@@ -52,18 +52,7 @@
 }
 
 @media (max-width: 768px) {
-    .banner_title {
-        font-size: 2rem;
-    }
-    .banner_description {
-        font-size: 0.8rem;
-        height: auto;
-    }
-    .banner_button {
-        font-size: 1rem;
-        padding: 0.8rem 2rem;
-    }
     .banner_fadeBottom{
-        height: 70vh;
+        height: 30vh;
     }
 }

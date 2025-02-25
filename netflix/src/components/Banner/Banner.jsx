@@ -1,6 +1,5 @@
 import React, { useState, useEffect } from 'react'
 import './Banner.css'
-import 'bootstrap/dist/css/bootstrap.min.css';
 import axios from '../../utilities/axios.js'
 import requests from '../../utilities/request.js'
 
